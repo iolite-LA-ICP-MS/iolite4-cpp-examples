@@ -1,8 +1,8 @@
 #ifndef EXAMPLEIMPORTER_H
 #define EXAMPLEIMPORTER_H
 
-#include "/Applications/iolite4beta.app/Contents/include/abstractimporter.h"
-#include "/Applications/iolite4beta.app/Contents/include/plugininterface.h"
+#include "abstractimporter.h"
+#include "plugininterface.h"
 
 using namespace IolitePlugin;
 
